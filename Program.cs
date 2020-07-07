@@ -12,7 +12,7 @@ namespace ProjectCustomer
 
         static void Main(string[] args)
         {
-            Console.Title = "Responsi UAS Matakuliah Pemrograman_19.11.2685";
+            Console.Title = "Responsi UAS MK Pemrograman_19.11.2695";
 
             while (true)
             {
